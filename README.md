@@ -90,9 +90,9 @@ L’objectif est de simuler le **jeu de Grundy**, une variante du jeu de Nim, en
 
 ---
 
+Projet réalisé par QUINTANE Faustin
+BUT Informatique – IUT de Vannes
+Module S1.02 – Comparaison d'approches algorithmiques
+Année universitaire 2024-2025
 
 ---
-
-## 📎 Annexe
-
-Des outils supplémentaires comme des **graphes de performance** et du **code source commenté** accompagnent ce projet pour compléter l’analyse comparative.
